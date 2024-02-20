@@ -1,0 +1,31 @@
+# Node.js
+node_modules/
+
+# Gulp
+gulpfile.js
+gulpfile.ts
+
+# Sass
+*.css.map
+
+# Compiled CSS
+*.css
+
+# Compiled JavaScript
+*.js
+
+# IDE/Editor specific files
+.vscode/
+.idea/
+
+# Dependency lock files
+package-lock.json
+yarn.lock
+
+# Logs and debugging files
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Build output
+dist/
