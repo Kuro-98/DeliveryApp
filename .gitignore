@@ -2,14 +2,9 @@
 node_modules/
 
 # Gulp
-gulpfile.js
+
 gulpfile.ts
 
-# Sass
-*.css.map
-
-# Compiled CSS
-*.css
 
 # Compiled JavaScript
 *.js
